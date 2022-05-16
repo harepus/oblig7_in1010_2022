@@ -1,6 +1,7 @@
-Rutenett (12x12)
-Lage skatter (som legges ut tilfeldig)
+Rutenett (12x12) x
+Lage skatter (som legges ut tilfeldig) x
 Spise skattene (10 skatter på mappet)
-Ved spising = 1 rute lenger slange
-Game over ved kollisjon med enten vegg eller seg selv.
-Slange bevege seg en rute pr 2. sekund.
+Ved spising = 1 rute lenger slange x
+Game over ved kollisjon med enten vegg eller seg selv. x
+Slange bevege seg en rute pr 2. sekund. x
+Kontrollere slangen med UI.
